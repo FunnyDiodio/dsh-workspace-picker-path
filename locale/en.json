@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Workspace picker start path",
+    "description": "Adds a General settings row controlling where the directory chooser opens when you click Add workspace: a fixed custom path, or the last directory you confirmed. The picker becomes an in-app directory browser (type a path, create a folder); no application files are modified."
+  }
+}

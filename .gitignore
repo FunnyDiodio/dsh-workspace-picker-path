@@ -1,0 +1,6 @@
+node_modules/
+*.tgz
+*.log
+.DS_Store
+# Local dev artifacts: the published tile is assets/icon-180.png (tracked).
+icon-preview.png

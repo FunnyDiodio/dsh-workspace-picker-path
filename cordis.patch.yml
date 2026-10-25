@@ -1,0 +1,3 @@
+- insert:
+    - id: workspace-picker-path
+      name: dsh-workspace-picker-path

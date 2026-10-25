@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="Workspace picker path">
+  <rect width="32" height="32" rx="7" fill="#12233b"/>
+  <path d="M4.5 10.5a2 2 0 0 1 2-2h5.2l2.2 2.6h9.6a2 2 0 0 1 2 2v10.4a2 2 0 0 1-2 2H6.5a2 2 0 0 1-2-2V10.5Z" fill="#2f6fb3"/>
+  <path d="M6.5 14.5h19v9a2 2 0 0 1-2 2H8.5a2 2 0 0 1-2-2v-9Z" fill="#4f97d9"/>
+  <path d="M19 6.2c2.7 0 4.8 2.1 4.8 4.7 0 3.2-4.8 8.1-4.8 8.1s-4.8-4.9-4.8-8.1c0-2.6 2.1-4.7 4.8-4.7Z" fill="#f0b429"/>
+  <circle cx="19" cy="10.9" r="1.9" fill="#12233b"/>
+</svg>
